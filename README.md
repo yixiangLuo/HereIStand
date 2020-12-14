@@ -1,7 +1,7 @@
 # 教改风云
 
 ## 日程
-- 时间： 美东（冬令时）周六晚9-11pm，北京周日早10am-12pm
+- 时间： 美东（冬令时）周六晚9-11pm，美西（冬令时）周六晚6-8pm，北京周日早10am-12pm
 - 地点：
   - [腾讯会议](https://voovmeeting.com/s/L632Z0IV12ys):  会议 ID：727 0935 3820 会议密码：2333
   - Tabletop Simulator: sever name: hahaha; password: haha123
@@ -15,4 +15,5 @@
 - 规则介绍：[桌游小屋，2话](https://www.bilibili.com/video/BV1754y1U7px)
 
 ### 规则书
-- [中文规则书](test)
+- [中文规则书](https://github.com/yixiangLuo/HereIStand/blob/main/rulebook/HereIStand-%E4%B8%AD%E6%96%87%E8%A7%84%E5%88%99.pdf)
+- [英文规则书](https://github.com/yixiangLuo/HereIStand/blob/main/rulebook/HereIStand-Rulebook.pdf)
