@@ -3,7 +3,8 @@
 ## 日程
 - 时间： 美东（冬令时）周六晚9-11pm，美西（冬令时）周六晚6-8pm，北京周日早10am-12pm
 - 地点：
-  - [腾讯会议](https://voovmeeting.com/s/L632Z0IV12ys):  会议 ID：727 0935 3820 会议密码：2333
+  - 主要：[Zoom](https://berkeley.zoom.us/j/98265933529?pwd=QWl0QkYrQnYrYWJYSG9vS3dZWFh2QT09) 会议号：982 6593 3529 密码：781094
+  - 备用：[腾讯会议](https://voovmeeting.com/s/L632Z0IV12ys):  会议 ID：727 0935 3820 会议密码：2333
   - Tabletop Simulator: sever name: hahaha; password: haha123
 
 ## 资料
