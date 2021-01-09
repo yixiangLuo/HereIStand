@@ -17,6 +17,7 @@
 
 ### 规则书
 - [中文规则书](https://github.com/yixiangLuo/HereIStand/blob/main/rulebook/HereIStand-%E4%B8%AD%E6%96%87%E8%A7%84%E5%88%99.pdf)
+- [中文规则书-目录与笔记版](https://github.com/yixiangLuo/HereIStand/blob/main/rulebook/HereIStand-%E4%B8%AD%E6%96%87%E8%A7%84%E5%88%99-%E7%9B%AE%E5%BD%95%E4%B8%8E%E7%AC%94%E8%AE%B0.pdf)
 - [英文规则书](https://github.com/yixiangLuo/HereIStand/blob/main/rulebook/HereIStand-Rulebook.pdf)
 
 ## 科普分工
